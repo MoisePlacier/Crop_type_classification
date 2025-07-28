@@ -183,3 +183,23 @@ Giovanni Setaro - [Github](https://github.com/giovannisetaro)
 Noé Coursimaux - [Github](https://github.com/NoeCoursi)
 
 Moïse Placier - [Github](https://github.com/MoisePlacier)
+
+# Final Evaluation
+
+### Grade: 1.0 (97%)
+### Evaluated on: Monday, July 21, 2025, 18:57
+### Evaluator: Teodor Chiaburu
+
+### Feedback
+
+"Amazing work!
+I really appreciate it that you investigated a paper and tried to compare against their results!
+Really non-trivial problem to solve.
+Extensive data scraping and preprocessing (great imputation for cloud removal).
+Very good data exploration and visualization.
+Extensive training routine on the cluster.
+Correct splits to preserve the diversity in the areas.
+Tag is missing (-1P) – you had it as a final commit ‘v 1.0’ ;^)
+Great repo structure (Confusion Matrices in src/Comparison.ipynb could have looked better ;^)
+Great work on the slides!
+Answers to question (spectral bands from Sentinel-2) (-2P)"
